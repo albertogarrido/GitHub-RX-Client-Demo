@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GithubRxClient</string>
+    <string name="action_settings">Settings</string>
+    <string name="launch_retrofit_2">Retrofit</string>
+    <string name="launch_retrofit_rx_java">Rx-Retrofit</string>
+    <string name="contributed_times_string">has contributed %1$d times</string>
+    <string name="contributor_profile_string">\'s GitHub profile:</string>
+</resources>

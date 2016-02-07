@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="net.albertogarrido.githubrxclient.MainActivity">
+    <item
+        android:id="@+id/action_retrofit"
+        android:orderInCategory="100"
+        android:title="@string/launch_retrofit_2"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_retrofit_rx_android"
+        android:orderInCategory="100"
+        android:title="@string/launch_retrofit_rx_java"
+        app:showAsAction="ifRoom" />
+</menu>
